@@ -3,7 +3,7 @@ package com.fine.reflect;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-import com.fine.reflect.enhance.Singleton;
+//import com.fine.reflect.enhance.Singleton;
 
 /**
  * @author finefine at: 2019-05-02 22:26
